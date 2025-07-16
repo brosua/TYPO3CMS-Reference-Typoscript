@@ -1276,7 +1276,7 @@ siteLanguage()
 
     :typoscript:`siteLanguage("locale")`
         Returns the current locale as `\TYPO3\CMS\Core\Localization\Locale`.
-        You can call all public methods of the object, for example 
+        You can call all public methods of the object, for example
         :typoscript:`siteLanguage("locale").getName()` returns `en-GB` or `de-DE`.
 
         **Note**: In version 12 there was an unintentional breaking change,
